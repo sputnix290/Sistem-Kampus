@@ -82,7 +82,7 @@ _The login page for authenticating users._
 
 ### Admin Dashboard
 
-![Admin Dashboard](".\frontend\src\assets\tampilan panel admin.png")
+![Admin Dashboard]("./frontend/src/assets/tampilan%20panel%20admin.png")
 _Dashboard for administrators with student payment management._
 
 ## Recent Changes & Improvements
