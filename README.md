@@ -77,7 +77,7 @@ For testing purposes, the following demo accounts are seeded in the database:
 
 ### Login Page
 
-![Login Page](".\frontend\src\assets\Login.png")
+!(login page)[.\frontend\src\assets\Login.png]
 _The login page for authenticating users._
 
 ### Admin Dashboard
